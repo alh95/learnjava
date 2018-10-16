@@ -1,0 +1,10 @@
+
+public class HiLo {
+
+	public static void main(String[] args) {
+		int genNum = Math.random();
+		System.out.println(genNum;)
+
+	}
+
+}
